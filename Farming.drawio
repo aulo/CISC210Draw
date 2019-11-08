@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-08T03:44:06.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="xLL5we_1Pjfp7gnNik8u" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T04:40:02.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="VoocUMIsU1xsuDgGgHJI" version="12.2.2" type="github" pages="1">
   <diagram id="uQoPsyggOL1_r7nGYhY_" name="Page-1">
     <mxGraphModel dx="1643" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-23" value="+ area(): double" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UQCRdyQTEKRcxBoQZrcR-20" vertex="1">
           <mxGeometry y="86" width="190" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="UQCRdyQTEKRcxBoQZrcR-38" value="«interface»&#xa;CalcYield" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=42;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="260" width="160" height="76" as="geometry"/>
+        <mxCell id="UQCRdyQTEKRcxBoQZrcR-38" value="«interface»&#xa;Yield" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=42;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="278" width="160" height="76" as="geometry"/>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-42" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="UQCRdyQTEKRcxBoQZrcR-38" vertex="1">
           <mxGeometry y="42" width="160" height="8" as="geometry"/>
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-84" value="YieldSoybeanCommand" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1690" y="560" width="160" height="60" as="geometry"/>
+          <mxGeometry x="1620" y="522" width="160" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-87" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="UQCRdyQTEKRcxBoQZrcR-84" vertex="1">
           <mxGeometry y="26" width="160" height="8" as="geometry"/>
@@ -152,7 +152,7 @@
           <mxGeometry y="34" width="160" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-92" value="YieldCornCommand" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="560" width="160" height="60" as="geometry"/>
+          <mxGeometry x="1450" y="522" width="160" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-93" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="UQCRdyQTEKRcxBoQZrcR-92" vertex="1">
           <mxGeometry y="26" width="160" height="8" as="geometry"/>
@@ -161,7 +161,7 @@
           <mxGeometry y="34" width="160" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-95" value="YieldHempCommand" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1350" y="560" width="160" height="60" as="geometry"/>
+          <mxGeometry x="1280" y="522" width="160" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-96" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="UQCRdyQTEKRcxBoQZrcR-95" vertex="1">
           <mxGeometry y="26" width="160" height="8" as="geometry"/>
@@ -170,7 +170,7 @@
           <mxGeometry y="34" width="160" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-98" value="YieldWheatCommand" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="560" width="160" height="60" as="geometry"/>
+          <mxGeometry x="1110" y="522" width="160" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-99" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="UQCRdyQTEKRcxBoQZrcR-98" vertex="1">
           <mxGeometry y="26" width="160" height="8" as="geometry"/>
@@ -180,35 +180,35 @@
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-101" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=0.042;entryY=1.16;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.598;exitY=-0.027;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="UQCRdyQTEKRcxBoQZrcR-98" target="UQCRdyQTEKRcxBoQZrcR-43" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1310" y="480" as="sourcePoint"/>
-            <mxPoint x="1360" y="590.008" as="targetPoint"/>
+            <mxPoint x="1240" y="502" as="sourcePoint"/>
+            <mxPoint x="1290" y="612.008" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-102" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0.392;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.272;entryY=1.246;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UQCRdyQTEKRcxBoQZrcR-95" target="UQCRdyQTEKRcxBoQZrcR-43" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1440.96" y="712.98" as="sourcePoint"/>
-            <mxPoint x="1370.0800000000004" y="556.9879999999998" as="targetPoint"/>
+            <mxPoint x="1370.96" y="734.98" as="sourcePoint"/>
+            <mxPoint x="1300.0800000000004" y="578.9879999999998" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-103" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0.452;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=1.154;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UQCRdyQTEKRcxBoQZrcR-92" target="UQCRdyQTEKRcxBoQZrcR-43" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1440.96" y="640.98" as="sourcePoint"/>
-            <mxPoint x="1540" y="390" as="targetPoint"/>
+            <mxPoint x="1370.96" y="662.98" as="sourcePoint"/>
+            <mxPoint x="1470" y="412" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-104" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0.542;exitY=-0.045;exitDx=0;exitDy=0;entryX=0.876;entryY=1.16;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="UQCRdyQTEKRcxBoQZrcR-84" target="UQCRdyQTEKRcxBoQZrcR-43" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1444" y="564" as="sourcePoint"/>
-            <mxPoint x="1372.96" y="504.99599999999987" as="targetPoint"/>
+            <mxPoint x="1374" y="586" as="sourcePoint"/>
+            <mxPoint x="1302.96" y="526.9959999999999" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-118" value="Farming" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="910" y="267" width="190" height="190" as="geometry"/>
+          <mxGeometry x="860" y="267.5" width="190" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="UQCRdyQTEKRcxBoQZrcR-119" value="- plot : CalcPlot" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UQCRdyQTEKRcxBoQZrcR-118" vertex="1">
+        <mxCell id="UQCRdyQTEKRcxBoQZrcR-119" value="- plot : Plot" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UQCRdyQTEKRcxBoQZrcR-118" vertex="1">
           <mxGeometry y="26" width="190" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="UQCRdyQTEKRcxBoQZrcR-123" value="- yield : CalcYield" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UQCRdyQTEKRcxBoQZrcR-118" vertex="1">
+        <mxCell id="UQCRdyQTEKRcxBoQZrcR-123" value="- yield : Yield" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UQCRdyQTEKRcxBoQZrcR-118" vertex="1">
           <mxGeometry y="52" width="190" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="icalWWF1daYBHl1hUkGM-2" value="- crop: Crop" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UQCRdyQTEKRcxBoQZrcR-118">
@@ -234,12 +234,12 @@
         </mxCell>
         <mxCell id="UQCRdyQTEKRcxBoQZrcR-126" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;exitX=-0.027;exitY=0.109;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UQCRdyQTEKRcxBoQZrcR-43" target="UQCRdyQTEKRcxBoQZrcR-123" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1109.96" y="90.00600000000009" as="sourcePoint"/>
-            <mxPoint x="1140" y="290" as="targetPoint"/>
+            <mxPoint x="1059.96" y="90.50600000000009" as="sourcePoint"/>
+            <mxPoint x="1090" y="290.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="icalWWF1daYBHl1hUkGM-19" value="Farm" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="80" width="190" height="112" as="geometry"/>
+          <mxGeometry x="860" y="80.5" width="190" height="112" as="geometry"/>
         </mxCell>
         <mxCell id="icalWWF1daYBHl1hUkGM-20" value="- farm: List &lt;Farming&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="icalWWF1daYBHl1hUkGM-19">
           <mxGeometry y="26" width="190" height="26" as="geometry"/>
@@ -255,9 +255,24 @@
         </mxCell>
         <mxCell id="icalWWF1daYBHl1hUkGM-35" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.496;entryY=0.868;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UQCRdyQTEKRcxBoQZrcR-118" target="icalWWF1daYBHl1hUkGM-36">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1485.6800000000003" y="80.33400000000006" as="sourcePoint"/>
-            <mxPoint x="1340" y="140" as="targetPoint"/>
+            <mxPoint x="1435.6800000000003" y="80.83400000000006" as="sourcePoint"/>
+            <mxPoint x="1290" y="140.5" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="icalWWF1daYBHl1hUkGM-38" value="&lt;h1&gt;Plot&lt;/h1&gt;&lt;p&gt;Built using the ideas from solid, it will help to calculate the area and perimeter of the plots.&amp;nbsp; I used the term plot instead of field.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Calculating the perimeter doubles as the amount of fence is needed.&amp;nbsp; Calculating the area gives you the amount of crop planted and fertilizer needed for that plot.&lt;/p&gt;&lt;p&gt;There are two main types of plots, each with their own sub-classes.&amp;nbsp; The last row of classes are built that way in case any extra methods need to be added (meaning the square and rectangle classes are separated and the circle and ellipses classes are separated).&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="147" width="305" height="243" as="geometry"/>
+        </mxCell>
+        <mxCell id="icalWWF1daYBHl1hUkGM-39" value="&lt;h1&gt;Yield&lt;/h1&gt;&lt;p&gt;The yield calculations are set up using the command design pattern.&amp;nbsp; To calculate the yield, you follow a similar process, but it is slightly different for each crop which makes the command pattern ideal.&amp;nbsp; For each crop, there is a different yield command class.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1118" y="606" width="602" height="114" as="geometry"/>
+        </mxCell>
+        <mxCell id="icalWWF1daYBHl1hUkGM-40" value="&lt;h1&gt;Farm&lt;/h1&gt;&lt;p&gt;Has a list of Farming, in other words it has a list of all the plots.&amp;nbsp; From this class, calcCrop will calculate how much of one crop you have planted.&amp;nbsp; Similarly, calcYield will calculate the total yield for one crop.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="90" width="370" height="114" as="geometry"/>
+        </mxCell>
+        <mxCell id="icalWWF1daYBHl1hUkGM-41" value="&lt;h1&gt;Farming&lt;/h1&gt;&lt;p&gt;This class contains yield and plot, centralizing the main functions of the program.&amp;nbsp; Through this class, one can understand/have all the information about one plot, from the dimensions to the yield.&amp;nbsp; Multiple Farmings can be put together to create a Farm.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="135.5" width="370" height="114" as="geometry"/>
+        </mxCell>
+        <mxCell id="icalWWF1daYBHl1hUkGM-42" value="&lt;h1&gt;Other Creational Patterns&lt;/h1&gt;&lt;p&gt;While there are several other creational patterns that could potentially be used in this model, I chose not to.&amp;nbsp; But an abstract factory and singleton could definitely be used in another version of this model.&amp;nbsp; What creational patterns are used are up to the designer - whatever makes the best/simplest functioning deign will work.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1118" y="723" width="602" height="114" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
